@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeman-app/static/css/main.778b25c0.css",
+    "main.js": "/pokeman-app/static/js/main.b76576ed.js",
+    "index.html": "/pokeman-app/index.html",
+    "main.778b25c0.css.map": "/pokeman-app/static/css/main.778b25c0.css.map",
+    "main.b76576ed.js.map": "/pokeman-app/static/js/main.b76576ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778b25c0.css",
+    "static/js/main.b76576ed.js"
+  ]
+}
