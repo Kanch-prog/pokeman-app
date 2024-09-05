@@ -11,6 +11,8 @@
 
 
 # Pokémon List App
+![image](https://github.com/user-attachments/assets/87569bfc-87ec-4aa0-9fd0-97108f7989d9)
+
 
 This is a simple React application that fetches and displays a list of Pokémon using the GraphQL API. The application is built using React and Apollo Client to interact with a GraphQL endpoint.
 
