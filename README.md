@@ -1,3 +1,15 @@
+# work flow
+
+# 1. Create an ApolloClient instance and wrap your app with ApolloProvider to provide the client to your React components.
+# 1.1 initialize the Apollo Client with the GraphQL endpoint https://graphql-pokemon2.vercel.app and set up an in-memory cache.
+
+# 2. Create the main component where you'll fetch and display Pokémon data.
+
+# 3. define a GraphQL query GET_POKEMON to fetch Pokémon data by name. The useQuery hook is used to execute the query, passing the variable name: 'Pikachu'.
+
+# 3.1 If the data is successfully fetched, we display the Pokémon's name, image, number, and types. Loading and error states are handled appropriately.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
